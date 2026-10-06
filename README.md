@@ -3,7 +3,14 @@ My name is Célio João Lucas Martins. I graduated in Statistics from the Federa
 <br/>
 <br/>
 
-### Tools and Languages:
+### 🗺 Languages/Idiomas/Sprechens
+- Português (Native)
+- English (C1)
+- Deutsch (A2)
+- Español (B1)
+
+
+### Tools and Programming Languages:
 
 <img 
     align="left" 
@@ -75,12 +82,14 @@ My name is Célio João Lucas Martins. I graduated in Statistics from the Federa
     />
     <img 
         align="left" 
-        alt="PowerBI" 
+        alt="Most Used Languages" 
         height="100"
         style="padding-right: 10px;" 
-        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=celiolmartins55&theme=vue-dark&custom_title=Languages"
+        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=celiolmartins55&theme=vue-dark&custom_title= Most Used Languages"
     />
+
 </p>
+
 
 
 
