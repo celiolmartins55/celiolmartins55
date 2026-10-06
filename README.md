@@ -5,11 +5,11 @@ My name is Célio João Lucas Martins. I graduated in Statistics from the Federa
 
 ### 🗺 Languages/Idiomas/Sprechens
 - 🇧🇷 Português (Native)
-- English (C1)
-- Deutsch (A2)
-- Español (B1)
+- 🇬🇧 English (C1)
+- 🇩🇪 Deutsch (A2)
+- 🇪🇸 Español (B1)
 
-
++
 ### Tools and Programming Languages:
 
 <img 
