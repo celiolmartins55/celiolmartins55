@@ -1,6 +1,6 @@
-# 👨🏽‍💻📊 Célio Lucas
+# 👨🏽‍💻📊 Célio Martins
 
-
+Statistics graduate from Federal University of Ceará with skills in data analysis, programming, statistical modeling, and report generation. I am constantly seeking to learn and develop professionally.
 ### Tools and Languages:
 
 <img 
@@ -39,13 +39,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
     />
 
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px"  
-    src="https://icons8.com" 
-/>
 
 <img 
     align="left" 
@@ -53,28 +46,14 @@
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/microsoftexcel/217346" 
+    src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg" 
 />
+
 <img 
     align="left" 
-    alt="Excel" 
-    title="Excel"
+    alt="PowerBI" 
+    title="PowerBI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" 
+    src = "https://raw.githubusercontent.com/vscode-icons/vscode-icons/abf11361e268faa41cb377448560a17908886bcb/icons/file_type_powerbi.svg"
 />
-
-<!--
-**celiolmartins55/celiolmartins55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
