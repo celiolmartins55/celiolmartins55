@@ -1,5 +1,5 @@
 # 👨🏽‍💻📊 Célio Martins
-Statistician graduate from Federal University of Ceará with skills in data analysis, programming, statistical modeling, and report generation. I am constantly seeking to learn and develop professionally.
+My name is Célio João Lucas Martins. I graduated in Statistics from the Federal University of Ceará (UFC). This profile is a way to showcase my projects and improve my skills together with other scientists.
 <br/>
 <br/>
 
