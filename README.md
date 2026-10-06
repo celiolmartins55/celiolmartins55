@@ -1,6 +1,8 @@
 # 👨🏽‍💻📊 Célio Martins
+Statistician graduate from Federal University of Ceará with skills in data analysis, programming, statistical modeling, and report generation. I am constantly seeking to learn and develop professionally.
+<br/>
+<br/>
 
-Statistics graduate from Federal University of Ceará with skills in data analysis, programming, statistical modeling, and report generation. I am constantly seeking to learn and develop professionally.
 ### Tools and Languages:
 
 <img 
@@ -57,3 +59,28 @@ Statistics graduate from Federal University of Ceará with skills in data analys
     style="padding-right: 10px;" 
     src = "https://raw.githubusercontent.com/vscode-icons/vscode-icons/abf11361e268faa41cb377448560a17908886bcb/icons/file_type_powerbi.svg"
 />
+
+<br/>
+<br/>
+
+### 📊 Statistics
+
+<p>
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="120"
+        style="padding-right: 10px;" 
+        src = "https://github-readme-stats.vercel.app/api?username=celiolmartins55&show_icons=true&theme=vue-dark&include_all_comits=true"
+    />
+    <img 
+        align="left" 
+        alt="PowerBI" 
+        height="100"
+        style="padding-right: 10px;" 
+        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=celiolmartins55&theme=vue-dark&custom_title=Languages"
+    />
+</p>
+
+
+
