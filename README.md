@@ -1,4 +1,7 @@
 # 👨🏽‍💻📊 Célio Martins
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_PERFIL/](https://www.linkedin.com/in/céliojlmartins/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:celiomartins.est@gmail.com)
+
 My name is Célio João Lucas Martins. I graduated in Statistics from the Federal University of Ceará (UFC). This profile is a way to showcase my projects and improve my skills together with other scientists.
 <br/>
 <br/>
