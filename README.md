@@ -72,23 +72,16 @@ My name is Célio João Lucas Martins. I graduated in Statistics from the Federa
 ### 📊 Statistics
 
 <p>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="120"
-        style="padding-right: 10px;" 
-        src = "https://github-readme-stats.vercel.app/api?username=celiolmartins55&show_icons=true&theme=vue-dark&include_all_comits=true"
-    />
-    <img 
-        align="left" 
-        alt="Most Used Languages" 
-        height="120"
-        style="padding-right: 10px;" 
-        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=celiolmartins55&theme=vue-dark"
-    />
-
+    <!-- Card 1: GitHub Stats -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=celiolmartins55&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=a33688&text_color=3657a3&icon_color=088F8F&hide_border=true&v=1">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=celiolmartins55&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=FFFFFF&title_color=3643a3&text_color=3643a3&icon_color=3643a3&hide_border=true&v=1">
+        <img align="left" alt="GitHub Stats" height="120" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=celiolmartins55&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=3657a3&text_color=3657a3&icon_color=088F8F&hide_border=true&v=1">
+    </picture>
+    <!-- Card 2: Most Used Languages -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celiolmartins55&layout=compact&bg_color=0D1117&title_color=a33688&text_color=C9D1D9&hide_border=true&v=1">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celiolmartins55&layout=compact&bg_color=FFFFFF&title_color=3643a3&hide_border=true&v=1">
+        <img align="left" alt="Most Used Languages" height="120" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiolmartins55&layout=compact&bg_color=0D1117&title_color=8957E5&text_color=C9D1D9&hide_border=true&v=1">
+    </picture>
 </p>
-
-
-
-
