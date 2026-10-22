@@ -44,13 +44,15 @@ My name is Célio João Lucas Martins. I graduated in Statistics from the Federa
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
           
           
+
 <img 
     align="left" 
     alt="LaTeX" 
     title="LaTeX"
     width="30px"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+    src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" 
     />
+
 
 
 <img 
