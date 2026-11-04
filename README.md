@@ -8,19 +8,11 @@ My name is Célio João Lucas Martins. I graduated in Statistics from the Federa
 
 
 
-### 🗺 Languages/Idiomas/Sprachen
-- <img 
-    align="center" 
-    alt="Python" 
-    title="Python"
-    width="20px" 
-    style="padding-right: 10px;" 
-   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
-/> Português (Native)
-- 🇬🇧 English (C1)
-- 🇩🇪 Deutsch (A2)
-- 🇪🇸 Español (B1)
-
+### 🗺️ Languages / Idiomas / Sprachen
+- <img align="absmiddle" alt="BR" width="20" src="https://flagcdn.com/br.svg" /> &nbsp;**Português** — Native
+- <img align="absmiddle" alt="GB" width="20" src="https://flagcdn.com/gb.svg" /> &nbsp;**English** — C1 (Advanced)
+- <img align="absmiddle" alt="ES" width="20" src="https://flagcdn.com/es.svg" /> &nbsp;**Español** — B1 (Intermediate)
+- <img align="absmiddle" alt="DE" width="20" src="https://flagcdn.com/de.svg" /> &nbsp;**Deutsch** — A2 (Elementary)
 ### Tools and Programming Languages:
 
 <img 
