@@ -1,4 +1,4 @@
-### 📊 Statistics
+### 📊 Statistics tests
 
 <p>
     <!-- Card 1: GitHub Stats -->
